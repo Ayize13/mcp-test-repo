@@ -1,1 +1,1 @@
-This is test file 1
+This is the updated content for test file 1. Adding some more text to verify the update works properly.

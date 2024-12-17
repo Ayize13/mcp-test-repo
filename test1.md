@@ -1,1 +1,1 @@
-Testing another update to confirm functionality. Update #2.
+This is update #3 - proving that updates work despite the error message!
